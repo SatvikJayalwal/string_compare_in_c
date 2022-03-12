@@ -1,0 +1,1 @@
+# string_compare_in_c
